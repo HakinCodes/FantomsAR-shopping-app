@@ -1,6 +1,6 @@
 # FantomsAR-shopping-app
 
-#### Note : All Contribution's will be happen on original repo : 
+#### Note : All Contribution's will be happen on original repo : https://github.com/som23ya/FantomsAR-shopping-app
 ## Contributor's Hack, 2020
 
 Contributor's Hack 2020 is a program that helps students grow with **OPEN SOURCE**. This initiative by **HakinCodes** provides you the best platform to improve your skills and abilities by contributing to vast variety of OPEN SOURCE Projects and opportunity to interact with the mentors and the Organizing Team.
