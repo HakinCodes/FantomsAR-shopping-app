@@ -7,7 +7,7 @@ Contributor's Hack 2020 is a program that helps students grow with **OPEN SOURCE
 
 <p align="center">
   <a href="https://hakincodes.tech/">
-    <img src="https://user-images.githubusercontent.com/54139847/87952512-882a5600-cac7-11ea-939d-8304a641d8a9.png" alt="HakinCodes">
+    <img src="https://user-images.githubusercontent.com/54139847/87952512-882a5600-cac7-11ea-939d-8304a641d8a9.png" alt="HakinCodes" width="300" >
   </a>
 </p>
 
