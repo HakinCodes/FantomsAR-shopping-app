@@ -18,12 +18,16 @@ A complete virtual experience online store which gives users the chance to exper
 As of this year, Google has recently announced many more ARCore features to be made available over the web(which is currently pending public release) and Android. Having implemented ARkit and Arcore, we felt it’s time to get the word out there on the true capabilities of these features. 
 
 ## TECH STACK:
-#### Java (android studio) 
-#### Unity 
-#### Arcore 
-#### Blender 
-#### React 
-#### Firebase 
-#### Javascript 
-#### HTML
-#### Spark Arstudio
+##### Java (android studio) 
+##### Unity 
+##### Arcore 
+##### Blender 
+##### Firebase 
+##### Javascript 
+##### HTML
+##### Spark Arstudio
+
+## Contributing :bangbang:
+This is an OpenSource project and we would be happy to see new contributors. 
+We love Pull Requests, Bug Reports, ideas, code reviews or any other kind of positive contribution.All fixes should be proposed via pull requests. 
+ _**Happy Contributing**_ :smiley: 
